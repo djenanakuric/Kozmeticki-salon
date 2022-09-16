@@ -1,0 +1,17 @@
+.header{
+    text-align: right;
+    height: 5rem;
+    background-image: url("../../../public/header.jpg") ;
+    background-repeat: no-repeat;
+    width: -moz-max-content;
+    background-size: cover;
+    align-items: center;
+    position: static;
+}
+
+p {
+    font-family: Brush Script MT;
+    font-size: 50px;
+    margin-right: 20px;
+
+}

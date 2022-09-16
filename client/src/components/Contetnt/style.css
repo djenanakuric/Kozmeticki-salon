@@ -1,0 +1,7 @@
+.main-content{
+    background-image: url("../../../public/content.jpg");
+    background-size: cover;
+    height: -webkit-fill-available;
+    position: absolute;
+    width: -webkit-fill-available ;
+}

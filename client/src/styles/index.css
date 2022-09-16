@@ -1,0 +1,23 @@
+
+html,
+body,
+.side-menu {
+    height: 100%;
+    margin: 0;
+}
+
+.nav{
+    float: left;
+    width: 20%;
+    height: -webkit-fill-available;
+
+}
+
+.content {
+    float: right;
+    width: 80%;
+    height: -webkit-fill-available;
+}
+
+
+

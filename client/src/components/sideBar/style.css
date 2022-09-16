@@ -1,0 +1,43 @@
+* {
+    font-family: "Copperplate Gothic Light";
+    font-size: 25px;
+}
+.nav-item{
+    text-decoration: none;
+    list-style-type: none ;
+}
+.sideBar {
+    position: absolute;
+    width: 20%;
+    background-color: #FFC0CB;
+    min-height: -webkit-fill-available;
+
+}
+
+.sideBarItem {
+    position: relative;
+    height: 70px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sideBarItem:hover{
+    background-color: #FF69B4;
+    color: cornsilk;
+}
+
+
+.title-name {
+    color: black;
+    text-decoration: none;
+    justify-content: center;
+}
+.title-name:hover {
+    color: cornsilk;
+}
+
+ul {
+    margin-top: 35%;
+}
